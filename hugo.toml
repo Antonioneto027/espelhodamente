@@ -1,0 +1,10 @@
+baseURL = 'https://espelhodamente.org/'
+languageCode = 'pt-br'
+title = 'Espelho da Mente'
+theme = 'stack'
+
+
+ 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
